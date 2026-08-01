@@ -4,5 +4,16 @@ https://usingclaude.com/ko/guides/models
 # Claude Opus 4.7 완벽 가이드: 새 기능과 사양 총정리
 https://usingclaude.com/ko/guides/models/claude-opus-4-7-guide
 
+클로드 vs ChatGPT: 뭐가 다르고 언제 무엇을 쓸까 (2026)
+https://usingclaude.com/ko/guides/models/claude-vs-chatgpt
+
+클로드 vs 제미나이(Gemini): 무엇이 다르고 뭘 골라야 할까
+https://usingclaude.com/ko/guides/models/claude-vs-gemini
+
+클로드 모델 비교: Haiku·Sonnet·Opus 차이와 뭘 써야 할까
+https://usingclaude.com/ko/guides/models/claude-models-comparison
+
+Claude Opus 4.8 완벽 가이드: 4.7에서 달라진 점과 실전 활용
+https://usingclaude.com/ko/guides/models/claude-opus-4-8-guide
 
 
