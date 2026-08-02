@@ -78,7 +78,23 @@ Claude는 여러분의 상황을 알지 못합니다. 대상 독자, 목적, 분
 # 홈/가이드/시작하기/Claude가 단계별로 생각하게 하기 (think step by step)
 - https://usingclaude.com/ko/guides/start/claude-step-by-step-thinking
 
+> 가장 간단한 방법
+프롬프트 끝에 "차근차근 단계별로 생각해 줘" 또는 "먼저 풀이 과정을 적고, 그다음에 답을 알려 줘"라고 덧붙이는 것만으로도 효과가 있습니다. 답을 내기 전에 근거를 펼치게 하면, 중간에 놓쳤을 부분을 스스로 점검하게 됩니다.
 
+# Claude 답변 길이와 상세도 조절하기
+https://usingclaude.com/ko/guides/start/claude-response-length
+
+# Claude에게 충분한 맥락 주기: 배경·목적·제약
+https://usingclaude.com/ko/guides/start/claude-provide-context
+
+# 클로드 모바일 앱 완전 활용법 — 위젯, 음성 모드, 기기 앱 연동까지
+https://usingclaude.com/ko/guides/start/claude-mobile-app-guide
+
+클로드 코드로 코딩 부업 세팅하기: 설치부터 요금제·비용 관리까지
+https://usingclaude.com/ko/guides/start/claude-code-side-project-setup-guide
+
+코딩은 되는데 디자인은 몰라요 — Claude Code로 UI 완성하는 법
+https://usingclaude.com/ko/guides/start/claude-code-frontend-design-for-non-designers
 
 # 홈/가이드/시작하기/코딩 안 하는데 클로드 프로, 써볼 만할까요? 비개발자 관점 정리
 - https://usingclaude.com/ko/guides/start/claude-pro-non-developer-review
