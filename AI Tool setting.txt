@@ -22,3 +22,4 @@ Claude 데스크탑 앱
 
 claude 나무위키 : https://namu.wiki/w/Claude#s-4
 Using Claude : https://usingclaude.com/ko/claude-code
+Claude Code IDE 연동: VS Code·JetBrains에서 쓰는 법 (2026) : https://usingclaude.com/ko/claude-code/install/claude-code-ide-integration
