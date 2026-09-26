@@ -16,7 +16,7 @@ Claude 데스크탑 앱
 
 개발 중인 IDE 안에서 바로 실시간으로 코드를 자동 완성하거나 단일 함수 단위로 빠르게 피드백을 받고 싶다면 파이참 내부 연동(또는 서드파티 도구)이 효율적입니다.
 
-claude 나무위키 : https://namu.wiki/w/Claude#s-4
+Claude 나무위키 : https://namu.wiki/w/Claude#s-4
 Using Claude : https://usingclaude.com/ko/claude-code
 Claude Code IDE 연동: VS Code·JetBrains에서 쓰는 법 (2026) : https://usingclaude.com/ko/claude-code/install/claude-code-ide-integration
 
@@ -67,6 +67,39 @@ https://usingclaude.com/ko/guides/start/claude-download-install
 
 # 홈/가이드/시작하기/Claude에게 잘 질문하는 법: 프롬프트 작성 기초 7가지
 https://usingclaude.com/ko/guides/start/claude-prompt-guide
+
+1. 명확하고 구체적으로 쓰기
+"이거 정리해줘"보다 "아래 회의록을 3개의 핵심 결정사항과 담당자별 할 일로 정리해줘"처럼 무엇을, 어떻게 원하는지 구체적으로 적습니다. 모호함이 줄수록 답이 정확해집니다.
+
+2. 충분한 맥락(배경) 제공하기
+Claude는 여러분의 상황을 알지 못합니다. 대상 독자, 목적, 분야, 제약 같은 배경을 함께 주면 훨씬 적합한 답이 나옵니다. 예를 들어 "마케팅 비전공 신입에게 설명하듯이"처럼요.
+
+3. 원하는 출력 형식을 지정하기
+길이(예: 3문단), 형식(표·목록·코드), 어조(격식·친근)를 미리 정해주면 다시 고칠 일이 줄어듭니다. "표로", "200자 이내로", "단계별 번호 목록으로"처럼 적어 보세요.
+
+4. 예시를 보여주기
+원하는 결과의 예시를 한두 개 보여주면(흔히 퓨샷이라고 합니다) Claude가 형식과 톤을 정확히 따라갑니다. 특히 일정한 형식이 반복되는 작업에 효과적입니다.
+
+5. 복잡한 일은 단계별로 요청하기
+여러 단계가 필요한 문제는 "단계별로 차근차근 생각해서 풀어줘"라고 요청하면 더 정확해집니다. 한 번에 전부 시키기보다 과정을 나누는 편이 좋습니다.
+
+6. 역할을 부여하기
+"너는 숙련된 한국어 교정 편집자야"처럼 역할(페르소나)을 정해주면 답변의 관점과 전문성이 그 역할에 맞춰집니다.
+
+7. 하지 말 것도 함께 정하기
+원하는 것뿐 아니라 피해야 할 것(예: "전문 용어는 쓰지 말 것", "추측은 빼고 확인된 사실만")을 함께 적으면 결과가 더 깔끔해집니다.
+
+# 홈/가이드/Claude에게 역할(페르소나) 부여하기: 더 정확한 답을 얻는 법
+- https://usingclaude.com/ko/guides/start/claude-persona-role
+
+# 홈/가이드/Claude에게 좋은 예시 주기: 퓨샷(few-shot) 프롬프트
+- https://usingclaude.com/ko/guides/start/claude-few-shot-examples
+
+# 홈/가이드/Claude 출력 형식 지정하기: 표·JSON·목록으로 받기
+- https://usingclaude.com/ko/guides/start/claude-output-format
+
+# 홈/가이드/Claude가 단계별로 생각하게 하기 (think step by step)
+- https://usingclaude.com/ko/guides/start/claude-step-by-step-thinking
 
 
 
