@@ -4,6 +4,47 @@ https://usingclaude.com/ko/guides/features
 # Claude 주요 기능 가이드: Projects, Artifacts, Memory 제대로 쓰기
 https://usingclaude.com/ko/guides/features/claude-features-projects-artifacts-memory
 
+Claude 프롬프트 작성법: 공식 문서 기반 핵심 원칙 6가지
+https://usingclaude.com/ko/guides/features/claude-prompt-engineering-guide
+긴 문서를 다룰 때는 문서를 프롬프트 위쪽에 두고 질문을 아래에 두며, “먼저 관련 부분을 인용한 뒤 분석해”라고 덧붙이면 정확도가 올라갑니다.
+
+[역할] 너는 고객 피드백을 분류하는 데이터 분석가야.
+[작업] 아래 피드백을 카테고리(UI/성능/기능요청/기타), 감정(긍정/중립/부정),
+       우선순위(상/중/하)로 분류해.
+[형식] 표로, 한 줄에 하나씩.
+
+<피드백>
+{여기에 분류할 내용}
+</피드백>
+
+<예시>
+입력: 새 대시보드 로딩이 너무 느려요 → 성능 / 부정 / 상
+</예시>
+
+Claude 프로젝트(Projects) 활용법: 지식·지침으로 반복 작업 줄이기
+https://usingclaude.com/ko/guides/features/how-to-use-claude-projects
+
+Claude로 이메일·업무 메시지 작성하기
+https://usingclaude.com/ko/guides/features/claude-write-email
+
+Claude 메모리 기능 — 과거 대화를 기억하게 하고 관리하는 법
+https://usingclaude.com/ko/guides/features/claude-memory-guide
+
+Claude로 코드 에러·버그 디버깅하기 — 에러 로그 붙여넣고 원인 찾는 법
+https://usingclaude.com/ko/guides/features/claude-debug-code
+
+클로드로 업무 자동화하기 — 반복작업·커넥터·Cowork·Claude Code (2026)
+https://usingclaude.com/ko/guides/features/claude-work-automation
+
+클로드 플러그인 총정리 — 설치 방법부터 추천 플러그인까지 (2026)
+https://usingclaude.com/ko/guides/features/claude-plugins-guide
+
+추천 플러그인 ① — 지식노동용 (챗·Cowork)
+가장 먼저 볼 것은 앤트로픽이 직접 공개한 오픈소스 컬렉션(anthropics/knowledge-work-plugins)입니다. 발표 당시 앤트로픽 팀이 실제로 쓰던 플러그인들을 공개한 것으로, 다음 영역을 포함합니다.
+
+데이터 분석 — SQL 작성, 통계 분석, 대시보드
+https://github.com/anthropics/knowledge-work-plugins/tree/main/data
+
 
 
 
