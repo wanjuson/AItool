@@ -48,6 +48,8 @@ https://github.com/anthropics/knowledge-work-plugins/tree/main/data
 Claude로 이메일·업무 메시지 작성하기
 https://usingclaude.com/ko/guides/features/claude-write-email
 
+Claude 모델이 지원 종료될 때 적응하는 법 — 공식 가이드 정리
+https://usingclaude.com/ko/guides/features/claude-model-deprecation-adapt
 
 클로드 사용량 아끼는 현실적인 방법 — 리서치·실험 작업자를 위한 가이드
 https://usingclaude.com/ko/guides/features/claude-usage-saving-tips
