@@ -54,6 +54,9 @@ https://usingclaude.com/ko/guides/features/claude-model-deprecation-adapt
 클로드 사용량 아끼는 현실적인 방법 — 리서치·실험 작업자를 위한 가이드
 https://usingclaude.com/ko/guides/features/claude-usage-saving-tips
 
+긴 대화에서 캐릭터 설정이 흐려질 때 — Claude 프로젝트로 페르소나 컨텍스트 지키는 법
+https://usingclaude.com/ko/guides/features/claude-persona-context-drift-guide
+
 Claude 앱 '스킬 탐색' 총정리 — 플러그인 60개의 역할·사용법·자동 실행 여부 (2026년 9월)
 https://usingclaude.com/ko/guides/features/claude-app-skills-explore-plugin-catalog-2026
 
