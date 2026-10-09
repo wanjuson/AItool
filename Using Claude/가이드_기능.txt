@@ -51,6 +51,9 @@ https://usingclaude.com/ko/guides/features/claude-write-email
 Claude 모델이 지원 종료될 때 적응하는 법 — 공식 가이드 정리
 https://usingclaude.com/ko/guides/features/claude-model-deprecation-adapt
 
+GPT-6 아스트라 실사용 후기 총정리 — Claude Code 사용자가 알아둘 점
+https://usingclaude.com/ko/guides/features/gpt-6-astra-claude-code-users-guide
+
 클로드 사용량 아끼는 현실적인 방법 — 리서치·실험 작업자를 위한 가이드
 https://usingclaude.com/ko/guides/features/claude-usage-saving-tips
 
