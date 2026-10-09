@@ -1,10 +1,10 @@
-■ 홈/가이드/기능 url
+■ 홈/가이드/기능 url 
 https://usingclaude.com/ko/guides/features
 
 # Claude 주요 기능 가이드: Projects, Artifacts, Memory 제대로 쓰기
 https://usingclaude.com/ko/guides/features/claude-features-projects-artifacts-memory
 
-Claude 프롬프트 작성법: 공식 문서 기반 핵심 원칙 6가지
+# Claude 프롬프트 작성법: 공식 문서 기반 핵심 원칙 6가지
 https://usingclaude.com/ko/guides/features/claude-prompt-engineering-guide
 긴 문서를 다룰 때는 문서를 프롬프트 위쪽에 두고 질문을 아래에 두며, “먼저 관련 부분을 인용한 뒤 분석해”라고 덧붙이면 정확도가 올라갑니다.
 
@@ -21,7 +21,7 @@ https://usingclaude.com/ko/guides/features/claude-prompt-engineering-guide
 입력: 새 대시보드 로딩이 너무 느려요 → 성능 / 부정 / 상
 </예시>
 
-Claude 프로젝트(Projects) 활용법: 지식·지침으로 반복 작업 줄이기
+# Claude 프로젝트(Projects) 활용법: 지식·지침으로 반복 작업 줄이기
 https://usingclaude.com/ko/guides/features/how-to-use-claude-projects
 
 Claude로 이메일·업무 메시지 작성하기
