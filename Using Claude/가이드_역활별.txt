@@ -1,2 +1,5 @@
 ■ 홈/가이드/역할별
 https://usingclaude.com/ko/guides/by-role
+
+# 역할별 Claude 활용법 — 개발자·기획·마케팅·작가·학생
+https://usingclaude.com/ko/guides/by-role/claude-use-cases-by-role
