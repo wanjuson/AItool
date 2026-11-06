@@ -18,3 +18,6 @@ https://wikidocs.net/278700
 
 Cursor AI 코딩 도구 사용하기: Q&A 가이드
 https://wikidocs.net/278700
+
+Cursor 사용자 피드백: HackerNews 분석
+https://wikidocs.net/278730
