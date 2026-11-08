@@ -21,3 +21,6 @@ https://wikidocs.net/278700
 
 Cursor 사용자 피드백: HackerNews 분석
 https://wikidocs.net/278730
+
+Cursor 터미널 명령어로 실행하는법
+https://wikidocs.net/278690
